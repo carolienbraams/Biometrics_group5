@@ -1,0 +1,5 @@
+matplotlib
+pandas
+opencv-python 
+keras
+scikit-learn
