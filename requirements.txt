@@ -6,3 +6,8 @@ scikit-learn
 numpy~=1.18.4
 tqdm
 pydot
+imutils
+imgaug
+albumentations
+scikit-image~=0.18.0rc0
+ipywidgets
