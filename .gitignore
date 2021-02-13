@@ -9,3 +9,4 @@ frgc32x32.tar.gz
 /models
 /tensor_logs
 identities.txt
+*.zip
