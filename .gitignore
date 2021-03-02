@@ -6,4 +6,7 @@ frgc32x32.tar.gz
 /.ipynb_checkpoints/
 /.idea
 /output
+/models
+/tensor_logs
 identities.txt
+*.zip
